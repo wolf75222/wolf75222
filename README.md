@@ -3,7 +3,6 @@
   
 
 ### <div align="center">I'm Sir Wolf, I like to write in Python Code🐍 and I'm exploring Cloud Tech ☁️ & Ethical Hacking 
- 🚀
 
 
 </div>  
